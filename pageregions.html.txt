@@ -6,6 +6,9 @@
     <title>Birds</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300%7CCinzel+Decorative:700" rel="stylesheet" type="text/css">
 
+<!----- Add the link to your style sheet --------->
+        <link rel="stylesheet" type="text/css" href="https://github.com/nickgwillson/assignment7/blob/main/style.css">
+<!------------------------------------------------>
 
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
